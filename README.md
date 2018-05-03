@@ -1,7 +1,7 @@
 # Minicursos Data2Learning
 ## O que o twitter está pensando? Extraindo informações em redes sociais utilizando Python.
 
-`por: `[http://www.instagram.com/profadolfoguimaraes](@profadolfoguimaraes)
+`por: `[@profadolfoguimaraes](http://www.instagram.com/profadolfoguimaraes)
 
 Esse projeto foi resultado de um minicurso de coleta de dados do twitter ministrado em 2016. 
 Em março de 2018, resolvi retomá-lo para ministrar novamente o minicurso. Na ocasião foram coletados 
@@ -41,6 +41,6 @@ pode ser encontrada [aqui](http://www.data2learning.com/minicurso-o-que-o-twitte
 
 Para editar os notebooks é preciso instalar o Jupyter Notebook. Informações em: [http://jupyter.org/](http://jupyter.org/)
 
-Qualquer dúvida e sugestões é só entrar em contato:**
+Qualquer dúvida e sugestões é só entrar em contato:
 
 [adolfo@data2learning.com](mailto:adolfo@data2learning.com) ou [@profadolfoguimaraes](http://www.instagram.com/profadolfoguimaraes) (instagram) 
