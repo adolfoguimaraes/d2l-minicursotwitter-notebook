@@ -51,8 +51,7 @@ Para editar os notebooks é preciso instalar o Jupyter Notebook. Informações e
 1. [Coletando dados do twitter (Parte 1)](01_ColetandoDadosTwitter_Parte1.ipynb)
 2. [Coletando dados do twitter (Parte 2)](02_ColetandoDadosTwitter_Parte2.ipynb)
 3. [Pré-processamento utilizando NLTK](03_PreProcessamentoDeTexto_NLTK.ipynb)
-
-
+4. [Análise do Texto](04_AnaliseDoTexto.ipynb)
 
 ### Colab Google
 
@@ -61,6 +60,7 @@ Os notebooks podem ser executados no [Colab Google Research](https://colab.resea
 1. [Coletando dados do twitter (Parte 1)](https://colab.research.google.com/github/adolfoguimaraes/d2l-minicursotwitter-notebook/blob/master/01_ColetandoDadosTwitter_Parte1.ipynb)
 2. [Coletando dados do twitter (Parte 2)](https://colab.research.google.com/github/adolfoguimaraes/d2l-minicursotwitter-notebook/blob/master/02_ColetandoDadosTwitter_Parte2.ipynb)
 3. [Pré-processamento utilizando NLTK](https://colab.research.google.com/github/adolfoguimaraes/d2l-minicursotwitter-notebook/blob/master/03_PreProcessamentoDeTexto_NLTK.ipynb)
+4. [Análise do Texto](https://colab.research.google.com/github/adolfoguimaraes/d2l-minicursotwitter-notebook/blob/master/04_AnaliseDoTexto.ipynb)
 
 Qualquer dúvida e/ou sugestões, entre em contato:
 
