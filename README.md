@@ -42,9 +42,17 @@ Para editar os notebooks é preciso instalar o Jupyter Notebook. Informações e
 
 ### Conteúdo deste repositório:
 
+#### Material
+
+1. [Slides](Slides_Apresentacao.pdf): Slides da parte introdutória do minicurso. 
+
+#### Notebooks
+
 1. [Coletando dados do twitter (Parte 1)](01_ColetandoDadosTwitter_Parte1.ipynb)
 2. [Coletando dados do twitter (Parte 2)](02_ColetandoDadosTwitter_Parte2.ipynb)
 3. [Pré-processamento utilizando NLTK](03_PreProcessamentoDeTexto_NLTK.ipynb)
+
+
 
 ### Colab Google
 
