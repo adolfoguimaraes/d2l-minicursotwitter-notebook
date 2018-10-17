@@ -1,3 +1,4 @@
 nltk==3.2.1
 pytz==2016.7
 twython==3.4.0
+watson-developer-cloud==2.2.5
